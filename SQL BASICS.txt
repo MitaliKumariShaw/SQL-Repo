@@ -1,0 +1,34 @@
+                             SQL Basics
+x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+
+SQL Commands:
+-------------
+
+Data Definition Language:
+--------------------------
+CREATE
+DROP
+ALTER
+TRUNCATE
+RENAME
+
+Data Manipulation Command:
+---------------------------
+INSERT
+DELETE
+UPDATE
+
+Transaction Control Language:
+------------------------------
+COMMIT
+SAVEPOINT
+ROLLBACK
+
+Data Control Language:
+-----------------------
+GRANT
+REVOKE
+
+Data Query Language:
+---------------------
+SELECT
