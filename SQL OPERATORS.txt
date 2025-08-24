@@ -1,0 +1,38 @@
+							SQL Operators
+x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+
+TYPES OF SQL OPERATOR
+----------------------
+
+1) Arithmatic Operator
+2) Comparison Operator
+3) Logical Operator
+4) Bitwise Operator
+5) Compound Operator
+6) Special Operator
+
+x----x----x----x----x----x----x----x----x----x----x----x----x----x----x
+
+1) Arithmetic Operator
+-----------------------
++, -, *, /, %
+
+2) Comparison Operator
+-----------------------
+=, >, <, >=, <=, <>
+
+3) Logical Operator
+--------------------
+AND, OR, NOT
+
+4) Bitwise OPERATOR
+--------------------
+&, |, ^, ~, <<, >>
+
+5) Compound Operator
+---------------------
++=, -=, *=, /=, %=, &=, |=, ^=
+
+6) Special Operator
+--------------------
+ALL, ANY, BETWEEN, IN, EXISTS, SOME, UNIQUE
